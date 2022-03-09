@@ -13,7 +13,7 @@ namespace TestProject1
         public void Test1()
         {
             Assert.Equal(0, StringSomething.StringCalculator.SumString(""));
-            Assert.Equal(0, StringSomething.StringCalculator.SumString("100"));
+            Assert.Equal(100, StringSomething.StringCalculator.SumString("100"));
         }
 
 
