@@ -1,0 +1,16 @@
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\bin\Debug\net5.0\StringSomething.exe
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\bin\Debug\net5.0\StringSomething.deps.json
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\bin\Debug\net5.0\StringSomething.runtimeconfig.json
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\bin\Debug\net5.0\StringSomething.runtimeconfig.dev.json
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\bin\Debug\net5.0\StringSomething.dll
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\bin\Debug\net5.0\ref\StringSomething.dll
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\bin\Debug\net5.0\StringSomething.pdb
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.AssemblyInfoInputs.cache
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.dll
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\ref\StringSomething.dll
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.pdb
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.genruntimeconfig.cache
+C:\Users\Wojtek\source\repos\StringSomething\StringSomething\obj\Debug\net5.0\StringSomething.csprojAssemblyReference.cache
